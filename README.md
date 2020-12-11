@@ -111,6 +111,7 @@ Dada la neutralidad, esta torre avisa cada vez que hay un caído (personaje muer
 - Dentro de lo héroes debemos destacar que los magos _(quienes acumulan todo el conocimiento posible de tierra media)_ llevan un registro uno a uno de Quien fue derrotado por quién, en "El libro de la sabiduría"
 
 - Estos es lo que se conoce del registro de la batalla y los bandos, pero podría hacer alguna otra raza que lleve su propia manera de registro.
+---
 
 
 ## Escenarios [Scenarios]
