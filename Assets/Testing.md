@@ -11,7 +11,6 @@
 ![Banner](./banner.png)
 
 
-
 ## Sugerencias para los casos de test
 
 El propósito de este documento es de ayudarte con la identificación de algunos de los casos de test que deberes desarrollar.
@@ -37,8 +36,6 @@ El propósito de este documento es de ayudarte con la identificación de algunos
 🥈10. Cuando un personaje recibe un ataque, su vida nunca puede ser menor que 0.
 
 🥈11. Cuando un personaje recibe un ataque y su defensa es _mayor_ al ataque, su vida no se modifica.
-
-### 3. Encounters
 
 🥈12. Cuando se da un encuentro de tipo intercambio entre dos personajes y un elemento, el emisor pierde el elemento y el receptor lo gana.
 
