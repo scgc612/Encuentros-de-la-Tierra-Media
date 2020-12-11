@@ -116,6 +116,7 @@ Dada la neutralidad, esta torre avisa cada vez que hay un caído (personaje muer
 
 ## Escenarios [Scenarios]
 Un escenario es la historia de personajes que se encuentran en uno o más encuentros. Un escenario es, esencialmente, una historia.
+
 El escenario es 100% interactivo para que el jugador cree los personajes, les asigne elementos y genere encuentros. Este escenario termina automáticamente cuando quedan menos de dos personajes vivos.
 
 ---
@@ -133,13 +134,13 @@ Se pide el diagrama de clases de la solución completa.
     1. TODOS los items excepcionales.
     2. Al menos tres items compuestos(sin contar los excepcionales)
 
-### Parte 3
+### Buenas prácticas  
 
+Recuerden que deben seguir las buenas prácticas de C# al momento de definir variables, nombres de métodos, etc. De no seguir esto, podrás perder puntos en la nota final.  
 
-### Parte 4
+### Test 
 
-
-### Parte 5
+Se deberá incluir los casos de prueba que consideren necesarios. 
 
 ### Entrega 
 
