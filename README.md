@@ -155,22 +155,24 @@ Entendemos que es un tarea ardua es por eso que vamos ayudarte identificando alg
 
 > [Sugerencias para los casos de test](./Assets/Testing.md)
 
+---
+
 ### ⚠ Consideraciones de desarrollo
 
  Para cada una de las partes anteriores, se deben de tener en cuenta lo siguiente:
 - Se debe entregar un proyecto C# (Biblioteca de clases, Programa de consola y de Test)
-- Todos los proyectos deben compilar correctamente
+- Todos los proyectos deben compilar
+- Todos los casos de prueba desarrollados deben pasar (verde)
 - Se deben manejar las abstracciones necesarias para el juego, de tal manera que permita agregar nuevos elementos sin cambiar el código fuente.
 - Cumplir con las convenciones del lenguaje.
 - **Aplicar y justificar el uso de patrones y principios**.
 - Precondiciones, PosCondiciones e Invariantes.
 - Manejo de excepciones.
-===
-
 
 ### Entrega 
 La entrega se realizará a través de WebAsignatura antes de las 18:00 horas de viernes 18 de diciembre de 2020. La entrega se realizará en un único archivo en formato zip conteniendo todos los recursos desarrollados en el trabajo. 
 
 ### Defensa 
 La defensa se realizará a través de WebAsignatura el viernes 18 de diciembre de 2020 a las 18:15hs y tendrá una duración máxima de 60 minutos. 
+
 
