@@ -165,3 +165,12 @@ Entendemos que es un tarea ardua es por eso que vamos ayudarte identificando alg
 - **Aplicar y justificar el uso de patrones y principios**.
 - Precondiciones, PosCondiciones e Invariantes.
 - Manejo de excepciones.
+===
+
+
+### Entrega 
+La entrega se realizará a través de WebAsignatura antes de las 18:00 horas de viernes 18 de diciembre de 2020. La entrega se realizará en un único archivo en formato zip conteniendo todos los recursos desarrollados en el trabajo. 
+
+### Defensa 
+La defensa se realizará a través de WebAsignatura el viernes 18 de diciembre de 2020 a las 18:15hs y tendrá una duración máxima de 60 minutos. 
+
