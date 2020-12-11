@@ -113,33 +113,55 @@ Dada la neutralidad, esta torre avisa cada vez que hay un caído (personaje muer
 - Estos es lo que se conoce del registro de la batalla y los bandos, pero podría hacer alguna otra raza que lleve su propia manera de registro.
 ---
 
-
 ## Escenarios [Scenarios]
 Un escenario es la historia de personajes que se encuentran en uno o más encuentros. Un escenario es, esencialmente, una historia.
-El escenario es 100% interactivo para que el jugador cree los personajes, les asigne elementos y genere encuentros. Este escenario termina automáticamente cuando quedan menos de dos personajes vivos.
+Este escenario termina automáticamente cuando quedan menos de dos personajes vivos.
 
 ---
 
 ## Desafió
 
 ### Parte 1
-Se pide el diagrama de clases de la solución completa.
+1. Diagrama de clases de la solución completa.
 
 ### Parte 2
-
 1. Implementar al menos dos nuevos personajes además de los ya mencionados anteriormente.
 2. Cada personaje debe tener items distintos
 3. Se deben de implementar :
     1. TODOS los items excepcionales.
     2. Al menos tres items compuestos(sin contar los excepcionales)
 
-### Parte 3
+> [Aquí te compartimos un enlace en donde puedes apoyarte para la creación de los items.
+](https://ringsdb.com/find?q=t%3Aattachment)
 
+### Parte 3
+1. Implementar la/s clases que representan los encuentros.
 
 ### Parte 4
+Dado que ahora tenemos la manera de contar una historia mediante los escenarios se debe:
 
+1. Implementar la/s clases que representen este escenario.
+2. Cargar el escenario a partir de un archivo de texto.
+3. Escribir en un archivo el resultado de la historia, es decir cuales personajes a han muerto por la mano de quíen, y cual es el personaje que se hizo con el control de Tierra Media.
+
+Tengan en cuenta que este en este caso el origen/destino es un archivo, pero, podrían ser otros. 
+
+El formato del los archivos se lo dejamos a su entera elección.
 
 ### Parte 5
+Es importante en cualquier tipo de desarrollo el buen funcionamiento y la correctitud del mismo, es por eso que vamos a pedirte que desarrolles casos de prueba para el Juego.
 
+Entendemos que es un tarea ardua es por eso que vamos ayudarte identificando algunos de los casos que deberías de probar.
 
+> [Sugerencias para los casos de test](./Assets/Testing.md)
 
+### ⚠ Consideraciones de desarrollo
+
+ Para cada una de las partes anteriores, se deben de tener en cuenta lo siguiente:
+- Se debe entregar un proyecto C# (Biblioteca de clases, Programa de consola y de Test)
+- Todos los proyectos deben compilar correctamente
+- Se deben manejar las abstracciones necesarias para el juego, de tal manera que permita agregar nuevos elementos sin cambiar el código fuente.
+- Cumplir con las convenciones del lenguaje.
+- **Aplicar y justificar el uso de patrones y principios**.
+- Precondiciones, PosCondiciones e Invariantes.
+- Manejo de excepciones.
