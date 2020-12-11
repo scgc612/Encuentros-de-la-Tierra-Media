@@ -75,9 +75,15 @@ Algunos elementos pueden ser creados a partir de la combinación de dos o más e
 **La vara de asclepio :** Este item es muy especial ya que puede ser combinado con cualquier elemento mágico, dando al personaje(no mago) la habilidad de lidiar con el items mágicos
 
 ---
-### Campo de batalla [Encounters]
+## Encuentros [Encounters]
 
-En un encuentro debe haber siempre personajes Heroe y personajes Enemigo (al menos uno de cada uno).
+En el campo de batalla, estos personajes medievales se cruzarán en encuentros amistosos de intercambio y en encuentros de combate.
+
+### Encuentros de intercambio [Exchange encounters]
+Los encuentros de intercambio es donde un personaje puede compartir uno o más items que posea con otro personaje. El primero perderá la pocesión del elemento, y el segundo será el nuevo dueño.
+
+### Encuentros de combate [Battle encounters]
+En un encuentro de combate debe haber siempre personajes del tipo Heroe y personajes Enemigo (al menos uno de cada uno).
 
 Cuando el encuentro toma lugar, los héroes batallarán contra los enemigos, de la siguiente forma:
 
@@ -85,8 +91,40 @@ Cuando el encuentro toma lugar, los héroes batallarán contra los enemigos, de 
 
 - Luego, los héroes sobrevivientes atacan a los enemigos. Todos los héroes atacan a cada uno de los enemigos 1 vez.
 
-- Cada vez que un personaje mata a otro, este se lleva los VP(puntos de victoria) del adversario que ha vencido.
+- Cada vez que un héroe mata a un enemigo, ese héroe se lleva los VP del enemigo que ha vencido.
 
 - Se repite el primer punto.
 
 - El encuentro termina cuando todos los héroes o todos los enemigos han muerto. Si un héroe ha conseguido 5+ (5 o más) VP, se cura.
+---
+
+## Escenarios [Scenarios]
+Un escenario es la historia de personajes que se encuentran en uno o más encuentros. Un escenario es, esencialmente, una historia.
+El escenario es 100% interactivo para que el jugador cree los personajes, les asigne elementos y genere encuentros. Este escenario termina automáticamente cuando quedan menos de dos personajes vivos.
+
+---
+
+## Desafio
+
+### Parte 1
+Se pide el diagrama de clases de la solución completa.
+
+### Parte 2
+
+1. Implementar 2 nuevos personajes además de los ya mencionados anteriormente.
+2. Cada personaje debe tener items distintos
+3. Se deben de implementar :
+    1. TODOS los items excepcionales.
+    2. Al menos cuatro items compuestos(sin contar los excepcionales)
+
+### Parte 3
+
+
+
+### Parte 4
+
+
+### Parte 5
+
+
+
