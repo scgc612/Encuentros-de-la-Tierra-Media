@@ -11,17 +11,17 @@
 ![Banner](./Assets/banner.png)
 
 ## Introducción
-A lo largo de todo el semestre hemos acompañado a nuestros heroes en sus aventuras y batallas por la tierra media, ya es momento de darle fin a las pequeñas batallas y ganar la guerra por el control de la tierra media.
+A lo largo de todo el semestre hemos acompañado a nuestros héroes en sus aventuras y batallas por la tierra media, ya es momento de darle fin a las pequeñas batallas y ganar la guerra por el control de la tierra media.
 
-Para ello nuestros heroes se enfrentaran a sus enemigos en encuentros a sangre fría, donde el último en pie se proclamara como amo y señor de toda Tierra Media. Para Estos encuentros vamos a contar con algunos de los siguientes personajes.
+Para ello nuestros héroes se enfrentaran a sus enemigos en encuentros a sangre fría, donde el último en pie se proclamara como amo y señor de toda Tierra Media. Para Estos encuentros vamos a contar con algunos de los siguientes personajes.
 
 ---
 ## Personajes _[Characters]_
 
-### Heroes  🛡
+### Héroes  🛡
 
 #### [Magos _[Wizards]_](https://lotr.fandom.com/wiki/Wizards)
-Los magos, también conocidos como Istari, tienen el dominio de la mágia, que provee capacidades de ataque y de defensa. La mágia es innata a ellos, aunque pueden adquirir más mediente el estudio de la asignatura, y mediante elementos que la potencian (por ejemplo, un [bastón mágico](https://ringsdb.com/bundles/cards/142008.png)).
+Los magos, también conocidos como Istari, tienen el dominio de la mágia, que provee capacidades de ataque y de defensa. La mágia es innata a ellos, aunque pueden adquirir más mediante el estudio de la asignatura, y mediante elementos que la potencian (por ejemplo, un [bastón mágico](https://ringsdb.com/bundles/cards/142008.png)).
 
 #### [Elfos _[Elves]_](https://lotr.fandom.com/wiki/Elves)
 Los elfos son criaturas supernaturales que también poseen características mágicas, y en general son conocidos por ayudar a los demás.
@@ -80,10 +80,10 @@ Algunos elementos pueden ser creados a partir de la combinación de dos o más e
 En el campo de batalla, estos personajes medievales se cruzarán en encuentros amistosos de intercambio y en encuentros de combate.
 
 ### Encuentros de intercambio [Exchange encounters]
-Los encuentros de intercambio es donde un personaje puede compartir uno o más items que posea con otro personaje. El primero perderá la pocesión del elemento, y el segundo será el nuevo dueño.
+Los encuentros de intercambio es donde un personaje puede compartir uno o más items que posea con otro personaje. El primero perderá la posesión del elemento, y el segundo será el nuevo dueño.
 
 ### Encuentros de combate [Battle encounters]
-En un encuentro de combate debe haber siempre personajes del tipo Heroe y personajes Enemigo (al menos uno de cada uno).
+En un encuentro de combate debe haber siempre personajes del tipo Héroe y personajes Enemigo (al menos uno de cada uno).
 
 Cuando el encuentro toma lugar, los héroes batallarán contra los enemigos, de la siguiente forma:
 
@@ -95,8 +95,23 @@ Cuando el encuentro toma lugar, los héroes batallarán contra los enemigos, de 
 
 - Se repite el primer punto.
 
-- El encuentro termina cuando todos los héroes o todos los enemigos han muerto. Si un héroe ha conseguido 5+ (5 o más) VP, se cura.
+- El encuentro termina cuando todos los héroes o todos los enemigos han muerto. 
+
+- Si un héroe ha conseguido 5+ (5 o más) VP, se cura.
 ---
+## Honor y Gloria [Honor & Glory]
+Todo campo de batalla tiene su particularidad, estos encuentros se dan dentro la la zona conocida como "El campo de los caídos" y bien conocida es la torre que se encuentra ahí, cuyo nombre obviamente es "La torre de los caídos". Esta zona ha sido testigo de las mas grandes batallas de tierra media y se considera una zona neutral.
+
+Dada la neutralidad, esta torre avisa cada vez que hay un caído (personaje muerto) a cada bando en donde:  
+
+- Los villanos registrarán a que héroe/s específico han vencido, en el "Árbol de los mil días"
+
+- Los héroes registrarán unicamente la cantidad de enemigos abatidos, en este caso este registro se lleva en lo que se conoce como "La Piedra eterna"
+
+- Dentro de lo héroes debemos destacar que los magos _(quienes acumulan todo el conocimiento posible de tierra media)_ llevan un registro uno a uno de Quien fue derrotado por quién, en "El libro de la sabiduría"
+
+- Estos es lo que se conoce del registro de la batalla y los bandos, pero podría hacer alguna otra raza que lleve su propia manera de registro.
+
 
 ## Escenarios [Scenarios]
 Un escenario es la historia de personajes que se encuentran en uno o más encuentros. Un escenario es, esencialmente, una historia.
@@ -104,21 +119,20 @@ El escenario es 100% interactivo para que el jugador cree los personajes, les as
 
 ---
 
-## Desafio
+## Desafió
 
 ### Parte 1
 Se pide el diagrama de clases de la solución completa.
 
 ### Parte 2
 
-1. Implementar 2 nuevos personajes además de los ya mencionados anteriormente.
+1. Implementar al menos dos nuevos personajes además de los ya mencionados anteriormente.
 2. Cada personaje debe tener items distintos
 3. Se deben de implementar :
     1. TODOS los items excepcionales.
-    2. Al menos cuatro items compuestos(sin contar los excepcionales)
+    2. Al menos tres items compuestos(sin contar los excepcionales)
 
 ### Parte 3
-
 
 
 ### Parte 4
