@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UmB/ng/QXfMTJ84DU8MRcNMqg+lGiHAxhOYWr7J61zoT4Pf4NBZs79XIABhFNcFyV8hxe6k7tETvqjOlsAXElw==",
+  "success": true,
+  "projectFilePath": "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj",
+  "expectedPackageFiles": [
+    "/Users/santiagogarcia/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/santiagogarcia/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
