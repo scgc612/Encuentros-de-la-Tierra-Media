@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/santiagogarcia/Desktop/ETM/src/Program/Program.csproj",
+      "projectUniqueName": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Program/Program.csproj",
       "projectName": "Program",
-      "projectPath": "/Users/santiagogarcia/Desktop/ETM/src/Program/Program.csproj",
+      "projectPath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Program/Program.csproj",
       "packagesPath": "/Users/santiagogarcia/.nuget/packages/",
-      "outputPath": "/Users/santiagogarcia/Desktop/ETM/src/Program/obj/",
+      "outputPath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Program/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/santiagogarcia/.nuget/NuGet/NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj": {
-              "projectPath": "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj"
+            "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/Library.csproj": {
+              "projectPath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/Library.csproj"
             }
           }
         }
