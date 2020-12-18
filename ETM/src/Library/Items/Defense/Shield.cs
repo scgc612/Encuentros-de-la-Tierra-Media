@@ -1,23 +1,14 @@
 namespace Library
 {
-    public class Staff : IAttackItem, IDefenseItem , IItem
+    public class Shield : IDefenseItem
     {
-        public int AttackValue 
-        {
-            get
-            {
-                return 100;
-            } 
-        }
-
         public int DefenseValue
         {
             get
             {
-                return 100;
+                return 14;
             }
         }
-
         public string Desc
         {
             get
@@ -27,6 +18,6 @@ namespace Library
 
         }
 
-        private string desc = "Staff";
+        private string desc = "Shield";
     }
 }

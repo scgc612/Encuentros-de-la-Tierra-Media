@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj",
+      "projectUniqueName": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/Library.csproj",
       "projectName": "Library",
-      "projectPath": "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj",
+      "projectPath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/Library.csproj",
       "packagesPath": "/Users/santiagogarcia/.nuget/packages/",
-      "outputPath": "/Users/santiagogarcia/Desktop/ETM/src/Library/obj/",
+      "outputPath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/santiagogarcia/.nuget/NuGet/NuGet.Config"

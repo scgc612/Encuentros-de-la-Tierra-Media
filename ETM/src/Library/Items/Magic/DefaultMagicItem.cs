@@ -1,23 +1,21 @@
 namespace Library
 {
-    public class Staff : IAttackItem, IDefenseItem , IItem
+    public class DefaultMagicItem : IMagicItem
     {
         public int AttackValue 
         {
             get
             {
-                return 100;
+                return 5;
             } 
         }
-
-        public int DefenseValue
+        public int DefenseValue 
         {
             get
             {
-                return 100;
-            }
+                return 5;
+            } 
         }
-
         public string Desc
         {
             get
@@ -27,6 +25,6 @@ namespace Library
 
         }
 
-        private string desc = "Staff";
+        private string desc = "DefaultMagic";
     }
 }

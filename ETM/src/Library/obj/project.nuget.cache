@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UmB/ng/QXfMTJ84DU8MRcNMqg+lGiHAxhOYWr7J61zoT4Pf4NBZs79XIABhFNcFyV8hxe6k7tETvqjOlsAXElw==",
+  "dgSpecHash": "G2DWBSCo0bC+cSYZjp0h1Taeknoh3Gd+wrLAbzlgkNc2+Oq48Yx888VDdD2mSYmpc3Hlpn37zrYTrbQN6f6w0Q==",
   "success": true,
-  "projectFilePath": "/Users/santiagogarcia/Desktop/ETM/src/Library/Library.csproj",
+  "projectFilePath": "/Users/santiagogarcia/Desktop/Encuentros-de-la-Tierra-Media/ETM/src/Library/Library.csproj",
   "expectedPackageFiles": [
     "/Users/santiagogarcia/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/santiagogarcia/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"

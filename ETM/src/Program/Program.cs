@@ -10,8 +10,21 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            CrearEscenarioFromArchivo creadorEscenario= new CrearEscenarioFromArchivo("../../escenario1.txt");
-            Escenario escenario1 = creadorEscenario.CrearEscenario();
+            CrearEscenarioFromArchivo creadorEscenario1= new CrearEscenarioFromArchivo("../../escenario1.txt");
+            Escenario escenario1 = creadorEscenario1.CrearEscenario();
+            EscribirEscenario escritor = new EscribirEscenario("../../resultadoescenario1.txt");
+            escritor.ContarHistoria(escenario1);
+
+            CrearEscenarioFromArchivo creadorEscenario2= new CrearEscenarioFromArchivo("../../escenario2.txt");
+            Escenario escenario2 = creadorEscenario2.CrearEscenario();
+            EscribirEscenario escritor2 = new EscribirEscenario("../../resultadoescenario2.txt");
+            escritor2.ContarHistoria(escenario2);
+
+            CrearEscenarioFromArchivo creadorEscenario3= new CrearEscenarioFromArchivo("../../escenario3.txt");
+            Escenario escenario3 = creadorEscenario3.CrearEscenario();
+            EscribirEscenario escritor3 = new EscribirEscenario("../../resultadoescenario3.txt");
+            escritor3.ContarHistoria(escenario3);
+            
         }
     }
 }

@@ -1,12 +1,12 @@
 namespace Library
 {
-    public class Staff : IAttackItem, IDefenseItem , IItem
+    public class Excalibur : IMagicItem
     {
         public int AttackValue 
         {
             get
             {
-                return 100;
+                return 300;
             } 
         }
 
@@ -14,10 +14,9 @@ namespace Library
         {
             get
             {
-                return 100;
+                return 300;
             }
         }
-
         public string Desc
         {
             get
@@ -27,6 +26,6 @@ namespace Library
 
         }
 
-        private string desc = "Staff";
+        private string desc = "Excalibur";
     }
 }

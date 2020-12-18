@@ -1,23 +1,14 @@
 namespace Library
 {
-    public class Spell : IMagicItem
+    public class GoldenGem : IGem
     {
         public int AttackValue
         {
             get
             {
-                return 70;
+                return 150;
             }
         }
-
-        public int DefenseValue
-        {
-            get
-            {
-                return 70;
-            }
-        }
-
         public string Desc
         {
             get
@@ -27,6 +18,6 @@ namespace Library
 
         }
 
-        private string desc = "Spell";
+        private string desc = "GoldenGem";
     }
 }
